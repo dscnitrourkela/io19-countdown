@@ -15,7 +15,7 @@ Please include [lottie.js](https://github.com/airbnb/lottie-web) in your `index.
 ## Usage
 
 ```html
-<io19-countdown date="May 7, 2019 10:00 PDT"></io19-countdown>
+<io19-countdown date="May 7, 2020 10:00 PDT"></io19-countdown>
 ```
 
 ## Demo
