@@ -18,6 +18,7 @@ class Io19Countdown extends HTMLElement {
                     display: flex;
                     flex-wrap: wrap;
                     max-width: calc(100% - 16px);
+                    height: auto
                 }
                 
                 .unitWrapper {
