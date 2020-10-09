@@ -14,17 +14,22 @@
             margin: 0;
             font-family: sans-serif;
             display: flex;
-            justify-content: center;
+            justify-content: flex-start;
             align-items: center;
             min-height: 100vh;
+            background-image: url('./cover.png') ;
+            background-position: bottom -50px left 300px;
+            background-size: cover;
+            padding-left: 50;
         }
         io19-countdown {
             max-width: 640px;
+            margin-left: 50px;
         }
     </style>
 </head>
 <body>
-    <io19-countdown date="May 7, 2019 10:00 PDT"></io19-countdown>
+        <io19-countdown date="Oct 10, 2020 05:30 PDT"></io19-countdown>
     <script type="module" src="./src/io19-countdown.js"></script>
 </body>
 </html>
