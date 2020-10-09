@@ -7,6 +7,7 @@ Google I/O 2019 Countdown Web Component
 Original code extracted from https://events.google.com/io/.
 Converted into web component by [@limhenry](https://github.com/limhenry).
 
+
 ## Installation
 
 Please include [lottie.js](https://github.com/airbnb/lottie-web) in your `index.html`
