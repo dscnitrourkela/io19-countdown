@@ -1,4 +1,4 @@
-# \<io19-countdown>
+# \<io19-countdown> 
 
 Google I/O 2019 Countdown Web Component
 
@@ -7,6 +7,7 @@ Google I/O 2019 Countdown Web Component
 Original code extracted from https://events.google.com/io/.
 Converted into web component by [@limhenry](https://github.com/limhenry).
 
+
 ## Installation
 
 Please include [lottie.js](https://github.com/airbnb/lottie-web) in your `index.html`
@@ -14,7 +15,7 @@ Please include [lottie.js](https://github.com/airbnb/lottie-web) in your `index.
 ## Usage
 
 ```html
-<io19-countdown date="May 7, 2019 10:00 PDT"></io19-countdown>
+<io19-countdown date="May 7, 2020 10:00 PDT"></io19-countdown>
 ```
 
 ## Demo
